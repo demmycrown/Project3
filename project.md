@@ -15,3 +15,5 @@
 `npm install mongoose`
 
 `node index.js`
+
+`npm run dev`
